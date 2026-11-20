@@ -1,0 +1,16 @@
+# Salida de compilación
+out/
+bin/
+*.class
+
+# IDEs y editores
+.vscode/
+.idea/
+*.iml
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Javadoc generado
+docs/api/
